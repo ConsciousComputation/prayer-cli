@@ -1,0 +1,15 @@
+[package]
+name = "prayer-cli"
+version = "0.1.0"
+authors = ["Meredith Finkelstein <meredith@paom.com>"]
+edition = "2018"
+license = "MIT OR Apache-2.0"
+description = "Prayers on the world computer"
+readme = "README.md"
+homepage = "http://github.com/consciouscomputation/prayer-cli"
+repository = "http://github.com/consciouscomputation/prayer-cli"
+keywords = ["cli", "search", "blockchain","ethereum","consciousness"]
+categories = ["command-line-utilities"]
+
+[dependencies]
+clap = "2.26.0"
